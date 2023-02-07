@@ -9,7 +9,7 @@ interface PreviewProps {
 const html = `
     <html>
       <head>
-        <style>html </style>
+   
       </head>
       <body>
         <div id="root"></div>
