@@ -8,7 +8,7 @@ import CellList from './components/cell-list';
 const App = () => {
   return (
     <Provider store={store}>
-      <div>
+      <div style={{ backgroundColor: ' rgb(31, 45, 59)' }}>
         <CellList />
       </div>
     </Provider>
